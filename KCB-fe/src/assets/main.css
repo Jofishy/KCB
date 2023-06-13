@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Open Sans';
+  src: url('@/assets/OpenSans-VariableFont_wdth,wght.ttf');
+}
+
+body {
+  font-family: 'Open Sans';
+  margin: 0 auto;
+  overflow-x: hidden;
+}
+
+table {
+  border-spacing: 0;
+}
+
+button {
+  cursor: pointer;
+}
+
+#app {
+  margin: 0 auto;
+  font-weight: normal;
+}
